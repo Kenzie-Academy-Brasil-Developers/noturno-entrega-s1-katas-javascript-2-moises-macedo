@@ -1,7 +1,10 @@
 // comece a criar a sua função add na linha abaixo
 
 // descomente a linha seguinte para testar sua função
-// console.assert(add(3, 5) === 8, 'A função add não está funcionando como esperado');
+
+function add() {}
+
+console.assert(add(3, 5) === 8, 'A função add não está funcionando como esperado')
 
 
 // comece a criar a sua função multiply na linha abaixo
